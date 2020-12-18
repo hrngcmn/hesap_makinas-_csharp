@@ -1,0 +1,13 @@
+D:\c# githuba atılacaklar\hesap_mak_csharp\hesap_mak_csharp\hesap_mak_csharp\bin\Debug\netcoreapp3.1\hesap_mak_csharp.exe
+D:\c# githuba atılacaklar\hesap_mak_csharp\hesap_mak_csharp\hesap_mak_csharp\bin\Debug\netcoreapp3.1\hesap_mak_csharp.deps.json
+D:\c# githuba atılacaklar\hesap_mak_csharp\hesap_mak_csharp\hesap_mak_csharp\bin\Debug\netcoreapp3.1\hesap_mak_csharp.runtimeconfig.json
+D:\c# githuba atılacaklar\hesap_mak_csharp\hesap_mak_csharp\hesap_mak_csharp\bin\Debug\netcoreapp3.1\hesap_mak_csharp.runtimeconfig.dev.json
+D:\c# githuba atılacaklar\hesap_mak_csharp\hesap_mak_csharp\hesap_mak_csharp\bin\Debug\netcoreapp3.1\hesap_mak_csharp.dll
+D:\c# githuba atılacaklar\hesap_mak_csharp\hesap_mak_csharp\hesap_mak_csharp\bin\Debug\netcoreapp3.1\hesap_mak_csharp.pdb
+D:\c# githuba atılacaklar\hesap_mak_csharp\hesap_mak_csharp\hesap_mak_csharp\obj\Debug\netcoreapp3.1\hesap_mak_csharp.csprojAssemblyReference.cache
+D:\c# githuba atılacaklar\hesap_mak_csharp\hesap_mak_csharp\hesap_mak_csharp\obj\Debug\netcoreapp3.1\hesap_mak_csharp.AssemblyInfoInputs.cache
+D:\c# githuba atılacaklar\hesap_mak_csharp\hesap_mak_csharp\hesap_mak_csharp\obj\Debug\netcoreapp3.1\hesap_mak_csharp.AssemblyInfo.cs
+D:\c# githuba atılacaklar\hesap_mak_csharp\hesap_mak_csharp\hesap_mak_csharp\obj\Debug\netcoreapp3.1\hesap_mak_csharp.csproj.CoreCompileInputs.cache
+D:\c# githuba atılacaklar\hesap_mak_csharp\hesap_mak_csharp\hesap_mak_csharp\obj\Debug\netcoreapp3.1\hesap_mak_csharp.dll
+D:\c# githuba atılacaklar\hesap_mak_csharp\hesap_mak_csharp\hesap_mak_csharp\obj\Debug\netcoreapp3.1\hesap_mak_csharp.pdb
+D:\c# githuba atılacaklar\hesap_mak_csharp\hesap_mak_csharp\hesap_mak_csharp\obj\Debug\netcoreapp3.1\hesap_mak_csharp.genruntimeconfig.cache
